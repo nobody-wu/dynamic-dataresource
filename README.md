@@ -18,4 +18,4 @@ v1.0.0：
             </bean>
         ```
 
-注意：打jar的时候由于resources路径写成resource,导致资源一直打到jar中
+注意：打jar的时候由于resources路径写成resource,导致资源一直打不到jar中
