@@ -17,5 +17,6 @@ v1.0.0：
                 <!--<property name="defaultTargetDataSource" ref="dataSource"/>-->
             </bean>
         ```
+![动态数据源架构图](http://omkt629ja.bkt.clouddn.com/dynamic-dataresource.jpg)
 
 注意：打jar的时候由于resources路径写成resource,导致资源一直打不到jar中
